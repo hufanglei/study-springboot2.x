@@ -1,7 +1,6 @@
 package charpter3.config;
 
 import charpter3.pojo.User2;
-import charpter3.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
